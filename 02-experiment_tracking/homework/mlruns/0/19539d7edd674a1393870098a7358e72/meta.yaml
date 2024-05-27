@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/19539d7edd674a1393870098a7358e72/artifacts
+end_time: 1716832256763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19539d7edd674a1393870098a7358e72
+run_name: bemused-shrimp-887
+run_uuid: 19539d7edd674a1393870098a7358e72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716832244298
+status: 3
+tags: []
+user_id: codespace
